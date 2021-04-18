@@ -31,6 +31,6 @@ The following image shows the web application's appearance:
 
 ## Links
 
-Github Repository: https://github.com/Cmonge135/porfolio
+Github Repository: https://github.com/Cmonge135/portfolio
 
 Deployed App: https://cmonge135.github.io/portfolio/
